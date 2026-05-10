@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/epitaph/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Epitaph](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/epitaph/) |
+| **Get License** | [Official Music Licensing for Epitaph](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/epitaph/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজছি আমি তোমার প্রেমের মায়া
+> আমার এই শূন্য বুকে কেবল তোমার ছায়া
+> বুকের ভেতর প্রেমের আগুন জ্বলছে দেখো নিরালায়
+> কাছে আসো জড়িয়ে ধরো আমার এই মোহনায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
